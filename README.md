@@ -1,11 +1,8 @@
-# Testy
+# Game_repo
 
-Testuje polaczenie GitHuba z VSCode !
-
-Wyglada na to ze dziala !!
-
-Pisze wlasna gre:
+VSCode
+<code>
 pygame_testy.py 
-
+</code>
 
 <img src="pic/Emoji.png" alt="emotek" width="64" height="64">
