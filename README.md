@@ -8,4 +8,4 @@ Pisze wlasna gre:
 pygame_testy.py 
 
 
-<img src="pic/images.png" alt="emotek" width="64" height="64" align=center>
+<img src="pic/Emoji.png" alt="emotek" width="64" height="64">
