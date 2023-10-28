@@ -4,4 +4,9 @@ Testuje polaczenie GitHuba z VSCode !
 
 Wyglada na to ze dziala !!
 
-...
+#####
+
+Pisze wlasna gre:
+pygame_testy.py 
+
+#####
