@@ -9,3 +9,4 @@ pygame_testy.py
 
 ![emotek](pic/images.png)
 
+<img src="pic/images.png" alt="emotek" width="64" height="64">
