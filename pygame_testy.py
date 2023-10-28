@@ -6,8 +6,8 @@ def main():
      
     # initialize the pygame module
     pygame.init()
-    # load and set the logo
-    logo = pygame.image.load("logo32x32.png")
+    load and set the logo
+    logo = pygame.image.load("pic/Emoji.png")
     pygame.display.set_icon(logo)
     pygame.display.set_caption("minimal program")
      
