@@ -8,3 +8,4 @@ Powolutku cos sie tworzy:
 <img src="pic/Emoji.png" alt="emotek" width="64" height="64">
 
 mmm0
+x
